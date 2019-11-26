@@ -1,0 +1,734 @@
+,Job Title,ID,School,Degree,Major,State,City,Exp_years
+0,Data Engineer,0,University of Washington,etc,Biochemistry Applied Mathematics/Chemistry minor ,California,San Francisco,8
+1,Data Engineer,1,Korea University,Ph.D,Doctor of Philosophy (Ph.D.) Computer Science ,California,San Francisco,6
+2,Data Engineer,2,University of Virginia,Master,Master of Science - MS Statistics ,California,Los Angeles,2
+3,Data Engineer,3,"University of California, Berkeley",Bachelor,B. S Electrical Engineering and Computer Science ,California,,12
+4,Data Engineer,4,Flatiron School,etc, Data Science Data Science Immersive Bootcamp,Washington,Seattle,13
+5,Data Engineer,5,Carnegie Mellon University,Bachelor,Bachelor of Science - BS Statistics and Machine Learning ,New York,New York,1
+6,Data Engineer,6,University of Oregon,Bachelor,"Bachelor's Degree Computer and Information Sciences, General ",California,San Diego,7
+7,Data Engineer,7,Sungkyunkwan University,Master,"Master of Engineering (M.Eng.) IT Consulting , ",Washington,Seattle,4
+8,Data Engineer,9,Cornell University,Bachelor,Bachelor of Science - BS Computer Science ,New York,New York,3
+9,Data Engineer,10,Western University,Master,Master of Science (M.Sc.) Computer Science ,Georgia,Atlanta,6
+10,Data Engineer,11,Barnard College,Bachelor,Bachelor's Degree Computer Science ,New York,New York,8
+11,Data Engineer,12,"University of California, Berkeley",Bachelor,Bachelor of Science - BS Computer Science ,Washington,Seattle,6
+12,Data Engineer,14,Western Illinois University,Master,Master's degree Computer Science 3.909/4.0 GPA,California,Los Angeles,7
+13,Data Engineer,15,Soongsil University,Bachelor,Bachelor Computer Science ,Washington,Seattle,13
+14,Data Engineer,17,Konkuk University,etc,Undergraduate Industrial Engineering ,California,,2
+15,Data Engineer,18,University of Washington,Bachelor,Bachelor's degree Mathematics ,Washington,Seattle,4
+16,Data Engineer,19,William & Mary,Master,Master of Science - MS Business Analytics ,,,4
+17,Data Engineer,20,Carnegie Mellon University,Master,"Master's degree Computer Science, Machine Learning ",California,San Francisco,8
+18,Data Engineer,21,University of Houston,Master,Master of Science (MS) Computer Engineering ,Washington,,6
+19,Data Engineer,22,NYU Center for Urban Science + Progress,Master,Master of Science - MS Informatics ,New York,New York,3
+20,Data Engineer,25,"Birla Institute of Technology and Science, Pilani",etc,  ,California,,2
+21,Data Engineer,26,"University of California, Berkeley",Bachelor,"Bachelor of Arts (B.A.) Integrative Biology, Minor in Food Systems ",California,San Francisco,6
+22,Data Engineer,27,Georgia Institute of Technology,Ph.D,Doctor of Philosophy (Ph.D.) Computational Science and Engineering ,Washington,Seattle,14
+23,Data Engineer,28,MBA - JBIMS University of Mumbai,Master,MBA (MMS) Information Systems Management ,California,San Francisco,14
+24,Data Engineer,29,Arizona State University,Ph.D,Doctor of Philosophy (Ph.D.) Computer Science ,California,,10
+25,Data Engineer,30,Institute of Engineers,Bachelor,Bachelors Electronics & communication Engineering ,Washington,Seattle,13
+26,Data Engineer,31,University of Miami,Master,Master's degree Business analytics ,Florida,,3
+27,Data Engineer,32,Northwestern University,Bachelor,BSEE Electrical Engineering ,New York,New York,10
+28,Data Engineer,33,The Johns Hopkins University,Master,M.S Computer Science ,New York,New York,11
+29,Data Engineer,34,Northeastern University,Master,Master of Science - MS Information Systems 3.58 / 4.0,Washington,Seattle,3
+30,Data Engineer,35,City University of New York-Brooklyn College,Bachelor,Bachelor’s Degree Computer Science ,New York,New York,9
+31,Data Engineer,36,University of Minnesota-Twin Cities,Master,Master of Science (MS) Computer Science ,California,San Francisco,10
+32,Data Engineer,37,West Virginia University,Master,Master of Science (M.S.) Computer Science ,California,,14
+33,Data Engineer,38,The University of Texas at Dallas,Master,Master of Science (M.S.) Information Technology and Management 3.55,Washington,Seattle,3
+34,Data Engineer,39,Georgia Institute of Technology,Master,Master’s Degree Machine Learning ,New York,New York,12
+35,Data Engineer,40,"University at Albany, SUNY",Master,Master's degree Computer Science ,Utah,Salt Lake City,2
+36,Data Engineer,41,Northeastern University,Master,Master of Science (MS) Management Information Systems ,California,San Francisco,9
+37,Data Engineer,42,Indian Institute of Science,Master,Master of Technology (MTech) Micro Electronics Systems First Class,New York,New York,10
+38,Data Engineer,43,Thiagarajar College of Engineering,Bachelor,Bachelor of Technology (B.Tech.) Information Technology ,California,,6
+39,Data Engineer,44,Rajshahi University of Engineering & Technology,Bachelor,Bachelor’s Degree Computer Science ,New York,New York,15
+40,Data Engineer,45,University of Arizona,Master,Master's Degree Electrical and Computer Engineering 3.7/4.0,New York,New York,9
+41,Data Engineer,46,University of Virginia,Ph.D,PhD Computer Science ,California,,13
+42,Data Engineer,47,Bits Pilani,Bachelor,Bachelor of Engineering (B.Eng.) Electrical and Electronics Engineering 3.8./ 4.0,California,,20
+43,Data Engineer,48,University of Pittsburgh,Master,Master’s Degree Information Science/Studies 3.85/4,California,San Francisco,5
+44,Data Engineer,49,Mahatma Jyotiba Phule (MJP) Rohilkhand University,Bachelor,Bachelor of Technology Computer Sciences & Engineering ,California,San Francisco,14
+45,Data Engineer,50,University of South Florida Muma College of Business,Master,Master's degree Management Information Systems and Services ,Washington,,7
+46,Data Engineer,51,The University of Texas at Arlington,Master,Master’s Degree Computer Science 4,California,,5
+47,Data Engineer,52,Banaras Hindu University,Master,MCA Computer Application ,Washington,Seattle,8
+48,Data Engineer,53,Duke University,Bachelor,BA Psychology Cum Laude,California,San Francisco,10
+49,Data Engineer,54,University of Southern California,Master,Master of Science (MS) Computer Science 3.86/4.00,New York,New York,6
+50,Data Engineer,55,University of Illinois at Urbana-Champaign,Master,Master's degree Computer Science ,California,San Francisco,9
+51,Data Engineer,56,Maharishi University of Management,Master,Master's Degree Computer Science ,California,San Francisco,7
+52,Data Engineer,57,Osmania University,Bachelor,Bachelor's degree Computer Science ,Florida,,6
+53,Data Engineer,58,University of Pennsylvania,Master,Master's Degree Materials Science ,New York,New York,2
+54,Data Engineer,59,Harrisburg University of Science and Technology,Master,"Master's degree Management Information Systems, General 3.91",California,San Francisco,7
+55,Data Engineer,60,University of Washington,Master,Master’s Degree - Data Science Information Management ,Washington,Seattle,7
+56,Data Engineer,61,University of Illinois at Chicago,Master,Master’s Degree Business Analytics ,California,San Francisco,6
+57,Data Engineer,62,Indiana University Bloomington,Bachelor,Bachelor of Science - BS SPEA: School of Public and Environmental Affairs Graduate,New York,New York,5
+58,Data Engineer,63,"University of California, Santa Cruz",Bachelor,Bachelor of Science (B.S.) Computer Science ,California,,13
+59,Data Engineer,64,University at Buffalo,Master,masters Computer Science 3.965 / 4.0,California,San Francisco,4
+60,Data Engineer,65,Cornell University,Master,Master of Engineering - MEng Operation Research and Information Engineering 3.85,New York,New York,2
+61,Data Engineer,66,Y Combinator,etc, Entrepreneurship/Entrepreneurial Studies ,California,,11
+62,Data Engineer,67,"Novosibirsk State University, Russia",Master,MS Applied Math and Computer Science ,California,,15
+63,Data Engineer,68,Carnegie Mellon University,Bachelor,Bachelor of Science Information Systems ,California,San Francisco,6
+64,Data Engineer,69,State University of New York at Stony Brook,Bachelor,"Bachelor of Science (B.S.) Double Major: Applied Mathematics & Statistics, Economics ",California,,10
+65,Data Engineer,70,The George Washington University,Bachelor,"Bachelor's degree Computer Science, Economics, Japanese ita multum laude · i mori",California,,19
+66,Data Engineer,71,General Assembly,etc, Data Science ,California,,6
+67,Data Engineer,72,North Carolina State University,etc,  ,New York,New York,7
+68,Data Engineer,73,Arizona State University,Master,Master of Science (M.S.) Computer Science ,California,San Francisco,5
+69,Data Engineer,74,Sree Chitra Thirunal College of Engineering,Bachelor,B.Tech Computer Science and Engineering ,California,,10
+70,Data Engineer,75,Cornell University,Bachelor,"B.S. Economics, Natural Resources, Environmental Economics ",New York,New York,13
+71,Data Engineer,76,No school,No Degree,No degree,Arizona,Phoenix,8
+72,Data Engineer,77,"University of California, Davis",Master,Master of Science (MS) Mechanical Engineering ,California,,7
+73,Data Engineer,78,Carnegie Mellon University,Master,Master’s Degree (Highest Distinction) Information Systems Management 3.90/4.33,California,,3
+74,Data Engineer,79,"University at Albany, SUNY",Master,Masters Computer Science ,New York,New York,3
+75,Data Engineer,80,Indiana University?Purdue University Indianapolis,Master,Master's degree Electrical and computer engineering ,Georgia,Atlanta,4
+76,Data Engineer,81,The University of Texas at Dallas,Master,Master's Degree Computer Science ,California,,4
+77,Data Engineer,82,East Tennessee State University,Master,Master's degree Computer Science ,California,San Francisco,9
+78,Data Engineer,83,Kakatiya University,Master,"Master of Business Administration (MBA) Management Information Systems, General ",Washington,,14
+79,Data Engineer,84,Stevens Institute of Technology,Master,Master’s Degree Business Intelligence and Analytics 3.75,California,San Francisco,4
+80,Data Engineer,85,Jawaharlal Nehru Technological University,Bachelor,Bachelor’s Degree Information Technology ,California,San Francisco,6
+81,Data Engineer,86,Santa Clara University,Master,Master’s Degree Computer Science and Engineering 3.6,California,,2
+82,Data Engineer,87,"Naveen Jindal School of Management, UT Dallas",Master,Master's degree Information technology and management ,California,,5
+83,Data Engineer,88,Stanford University,etc,Database Systems Principles Class Databases ,Florida,Miami,7
+84,Data Engineer,89,The University of Connecticut,Ph.D,Doctor of Philosophy (Ph.D.) Computer Science & Engineering ,New York,New York,15
+85,Data Engineer,90,DeVry University,etc, Electrical and Electronics Engineering ,Indiana,,20
+86,Data Engineer,91,Thapar Institute of Engineering and Technology,Master,Masters Electronics and Communication ,California,,9
+87,Data Engineer,92,ATSS - IICMR,Master,Master in Computer Appilcations Computer Science Distinction,New York,New York,13
+88,Data Engineer,93,University of North Carolina at Chapel Hill,Bachelor,Bachelor of Arts (BA) Mathematics and Economics ,New York,New York,11
+89,Data Engineer,94,Jawaharlal Nehru Technological University,Bachelor,Bachelor's degree Computer Science engineering ,California,San Francisco,16
+90,Data Engineer,95,Georgia Institute of Technology,Master,Master of Science (M.S.) Computer Science 3.7/4.00,California,,6
+91,Data Engineer,96,University of Michigan-Dearborn,Master,Master of Science - MS Data Science ,Michigan,,6
+92,Data Engineer,97,Uttar Pradesh Technical University,Bachelor,"Bachelor’s Degree Electrical, Electronics and Communications Engineering 75%",Texas,,14
+93,Data Engineer,98,University of Missouri-Columbia,Ph.D,Doctor of Philosophy (PhD) Mathematics ,California,,9
+94,Data Engineer,99,Rice University,Master,Master of Science (M.Sc.) Environmental Analysis and Decision Making 3.7/4,California,Los Angeles,5
+95,Data Engineer,100,Carnegie Mellon University,Master,Master's of Science Mechanical Engineering ,Colorado,Denver,10
+96,Data Engineer,101,University of Central Missouri,Master,Masters Computer Science ,New Jersey,,3
+97,Data Engineer,102,Northeastern University,Master,Master of Science (MS) Information Systems 3.65/4.0,California,San Francisco,5
+98,Data Engineer,103,Duke University,Master,"Master's Degree Master's Degree, Statistics and Economics Modeling ",California,San Francisco,6
+99,Data Engineer,104,Columbus State University,Master,Master's degree Computer Science ,Florida,,2
+100,Data Engineer,105,Jawaharlal Nehru Technological University,Bachelor,Bachelor's degree Engineering ,Washington,Seattle,20
+101,Data Engineer,106,Syracuse University,Master,Masters of Science Information Management ,New York,New York,7
+102,Data Engineer,107,University of North Carolina at Charlotte,Master,Master of Science (MS)- Computer Science Data Science and Business Analytics ,Missouri,Kansas City,3
+103,Data Engineer,108,The Wharton School,etc,"Certificate Program: Business Analytics ""Data to Insights""  ",California,,15
+104,Data Engineer,109,University of Washington,Master,Master's degree Theoretical and Computational Chemistry ,Washington,,9
+105,Data Engineer,110,Stevens Institute of Technology,Master,Master of Science (MS) Analytics and Data Sciences 3.78,New Jersey,,4
+106,Data Engineer,111,University of Houston-Clear Lake,Master,Master's degree Computer Science ,California,San Francisco,4
+107,Data Engineer,112,General Assembly,etc,Certification Product Management ,Massachusetts,Boston,6
+108,Data Engineer,113,"University of California, Davis",Bachelor,Bachelor's Degree Philosophy - Symbolic Logic ,California,San Francisco,5
+109,Data Engineer,114,University of Oregon,Master,"M.Sc., partial Ph.D (ABD). Physics ",New York,New York,11
+110,Data Engineer,115,spark training,etc,NA apache spark ,California,,17
+111,Data Engineer,116,Stony Brook University,Master,MS Computer Science ,California,,12
+112,Data Engineer,117,Anna University,Bachelor,Bachelor of Engineering Electrical and Electronics Engineering 79%,Texas,,8
+113,Data Engineer,118,Jawaharlal Nehru Technological University,Bachelor,Bachelor of Technology (B.Tech.) Computer Science and Information Technology ,California,San Francisco,15
+114,Data Engineer,119,Jawaharlal Nehru Technological University,etc,Engineer's Degree Electronics and Communications Engineering ,California,San Francisco,10
+115,Data Engineer,120,Anna University,Bachelor,Bachelor's degree Computer Science ,California,,14
+116,Data Engineer,121,ACTS CDAC,etc,DAC Computer Science First,California,San Francisco,14
+117,Data Engineer,122,University of California San Diego,Bachelor,Bacheler of Science (BS) Physiology and Neuroscience ,California,San Francisco,4
+118,Data Engineer,123,Bharathiar University,Bachelor,BSc Physics ,California,,8
+119,Data Engineer,124,UCLA,etc, Psychology ,California,Los Angeles,7
+120,Data Engineer,125,Syracuse University,etc,Graduate Computer Engineering ,Rhode Island,Providence,0
+121,Data Engineer,126,University of Mumbai,Bachelor,Bachelor of Engineering (BEng) Computer Science ,California,San Francisco,12
+122,Data Engineer,127,Columbia University in the City of New York,Bachelor,Bachelor of Arts Applied Mathematics ,California,San Francisco,3
+123,Data Engineer,128,University of Washington,Bachelor,"Bachelor's Degree Management Information Systems, General 3.7",California,San Francisco,5
+124,Data Engineer,129,New York University,Master,Master’s Degree Computer Science ,New York,New York,3
+125,Data Engineer,130,University of Waterloo,Bachelor,Bachelor of Applied Science (B.A.Sc.) Systems Design Engineering ,California,San Francisco,5
+126,Data Engineer,131,The University of Texas at San Antonio,Bachelor,Bachelor of Science (B.S.) Mathematics ,Washington,Seattle,11
+127,Data Engineer,132,University of San Francisco,Master,Master of Science - MS Data Science ,Washington,Seattle,4
+128,Data Engineer,133,"Shanmugha Arts, Science, Technology and Research Academy",Bachelor,Bachelor of Technology (B.Tech.) Information Technology ,Illinois,Chicago,17
+129,Data Engineer,134,Carnegie Mellon University,Master,Masters of Information Systems Management Computer Science ,California,San Francisco,5
+130,Data Engineer,135,California State University-Sacramento,Master,Master's degree Computer Science ,New York,New York,1
+131,Data Engineer,136,UCL,Master,Master of Engineering (MEng) Computer Science (International Programme) 2nd Class Upper,Washington,,5
+132,Data Engineer,137,University of Illinois at Urbana-Champaign,Bachelor,Bachelor's Degree Electrical Engineering GPA 4.95 / 5.0,Illinois,Chicago,29
+133,Data Engineer,138,Kent State University,Master,MS Computer Sciences ,California,,12
+134,Data Engineer,139,University of Texas,Master,MS Computer Science and Engineering ,California,,16
+135,Data Engineer,140,Indiana University Bloomington,Master,Master of Science (MS) Data Science 3.77/4.0,California,Los Angeles,4
+136,Data Engineer,141,Indiana University Bloomington,Master,Master's degree Data Science ,Massachusetts,Boston,5
+137,Data Engineer,142,Syracuse University,Master,Master's Degree Information Management 3.83/4.00,New York,New York,5
+138,Data Engineer,143,New York University,Master,Master's Degree Information Systems 3.61,New York,New York,6
+139,Data Engineer,144,"University of California, Berkeley",etc, Data Warehousing & Business Intelligence ,New York,New York,24
+140,Data Engineer,145,San Francisco State University,Master,Master's Degree Mathematics 3.5/4.0,California,,6
+141,Data Engineer,146,Stanford University,Master,Master of Science (MS) Electrical Engineering ,California,,15
+142,Data Engineer,147,Principia College,Bachelor,"BS Computer Science (major), Mathematics (minor) ",California,,23
+143,Data Engineer,148,Seattle Pacific University,Bachelor,Bachelor’s Degree BSBA Finance & International Business ,Washington,Seattle,10
+144,Data Engineer,149,Indiana University Bloomington,Master,"MS Data Science Statistics, Data Mining, Visualization 3.5",Pennsylvania,,13
+145,Data Engineer,150,California State Polytechnic University-Pomona,Master,Master's degree Computer Science 3.9,California,Los Angeles,4
+146,Data Engineer,151,Stanford Continuing Studies,etc,Sports & AI Courses  ,California,San Francisco,2
+147,Data Engineer,152,San Diego State University,Master,Master's degree Management Information Systems 3.8,California,San Francisco,3
+148,Data Engineer,153,Auburn University,Master,"Master of Science (M.S.) Computer and Information Sciences, General 4.0 / 4.0",California,San Francisco,9
+149,Data Engineer,154,University of Wisconsin-Parkside,Master,Master of Science Computer Information Systems ,Texas,,5
+150,Data Engineer,155,Northeastern University,Master,Master's degree Computer Science 3.76/4,Massachusetts,Boston,6
+151,Data Engineer,160,Georgia Institute of Technology,Bachelor,Bachelor's Degree Computer Science ,California,San Francisco,4
+152,Data Engineer,161,"University of California, Berkeley",Bachelor,Bachelor's degree Statistics and Public Health ,California,,3
+153,Data Engineer,162,The George Washington University,Master,Master of Science (M.S.) Electrical and Computer Engineering ,California,Los Angeles,7
+154,Data Engineer,163,No school,No Degree,No degree,California,,14
+155,Data Engineer,164,Coimbatore Institute of Technology,Master,MCA Master of Computer applications ,California,San Francisco,20
+156,Data Engineer,165,University of North Carolina at Charlotte,Master,Master of Science - MS Information Technology ,California,San Francisco,2
+157,Data Engineer,166,"University of California, San Diego",Bachelor,Bachelor's Degree Electrical Engineering ,California,,4
+158,Data Engineer,167,University of Washington,Master,Master of Science(M.S.) Information Management - Dual specialization in Data Science and Business Intelligence 3.86,California,,3
+159,Data Engineer,168,freeCodeCamp,No Degree,Non-Degree Program Computer Science ,Oregon,Portland,8
+160,Data Engineer,169,Ohio University,Ph.D,Ph.D Electrical Engineering and Computer Science ,California,San Diego,11
+161,Data Engineer,170,University of Illinois at Urbana-Champaign,Master,"Master's degree Management Information Systems, General ",Illinois,,2
+162,Data Engineer,171,"University of California, San Diego",etc, Data mining and SAS ,California,San Francisco,9
+163,Data Engineer,172,Computer Software,etc,  ,Ohio,,8
+164,Data Engineer,173,Northeastern University,Master,"Master of Data Analytics Engineering Advanced Machine Learning, Information Retrieval ",Massachusetts,Boston,8
+165,Data Engineer,175,Rochester Institute of Technology,Bachelor,B.S. Computer Science ,California,,19
+166,Data Engineer,176,University of Washington,Master,Master of Science (MS) Information Management 3.87,Washington,Seattle,5
+167,Data Engineer,177,San Francisco State University,Bachelor,Bachelor's degree Computer Science ,California,,15
+168,Data Engineer,178,"Gujarat University, India",Bachelor,Bachelors in Engineering Electronics and Communications ,California,,24
+169,Data Engineer,179,UCLA Anderson School of Management,Ph.D,Doctor of Philosophy (Ph.D.) Operations Management ,New York,New York,16
+170,Data Engineer,180,Georgia State University - J. Mack Robinson College of Business,Master,Master’s Degree Masters of Science in Information Systems ,California,San Francisco,10
+171,Data Engineer,181,VESIT Mumbai,Master,Master of Computer Applications (MCA) Computer Software Engineering ,California,San Francisco,12
+172,Data Engineer,182,Belmont University,Bachelor,Bachelor of Science (BS) Computer Science ,New York,New York,10
+173,Data Engineer,183,Budapest University of Technology and Economics,Master,Master's degree and Bachelor's degree Engineering Physics ,California,San Francisco,10
+174,Data Engineer,184,"Mar Athanasius College of Engineering, Kothamangalam",Bachelor,Bachelor's degree Computer Engineering ,California,San Francisco,6
+175,Data Engineer,185,Northeastern University,Master,Master's degree Data Analytics GPA - 3.8/4,Massachusetts,Boston,4
+176,Data Engineer,186,Texas A&M University,Master,Master of Science (MS) Management Information Sytems ,Texas,Houston,6
+177,Data Engineer,187,"University of California, Berkeley",Bachelor,Bachelor of Science (B.S.) Electrical Engineering and Computer Science ,New York,New York,5
+178,Data Engineer,188,University of Rochester,Master,Master of Science (M.S.) Data Science ,New York,New York,4
+179,Data Engineer,189,New York University - Polytechnic School of Engineering,Master,Master's degree Computer Science 3.64,New York,New York,6
+180,Data Engineer,190,Syracuse University,Master,Master’s Degree Information Management 4.0,New York,New York,5
+181,Data Engineer,191,Rochester Institute of Technology,Master,Master of Science (M.S.) Computer Science ,California,San Francisco,7
+182,Data Engineer,192,San Jose State University,Master,Master’s Degree Computer Software Engineering 3.82,,,10
+183,Data Engineer,193,UC Berkeley,Bachelor,Bachelor of Arts (B.A.) Political Science - Research Methods GPA: 3.86,California,,5
+184,Data Engineer,194,The University of Texas at Austin,Master,Master of Science (M.S.) Statistics and Data Science 3.77/4,California,San Francisco,4
+185,Data Engineer,195,New Jersey Institute of Technology,Master,Master’s Degree Computer Science 3.55,New York,New York,4
+186,Data Engineer,196,University of Toronto,Master,Master of Engineering (M.Eng.) Computer Engineering ,California,San Francisco,7
+187,Data Engineer,197,Uttar Pradesh Technical University,Bachelor,Bachelors of Technology Computer Science ,California,San Francisco,8
+188,Data Engineer,198,Duke University,Bachelor,"Bachelor’s Degree Computer Science, Creative Writing ",New York,New York,5
+189,Data Engineer,199,Alexandru Ioan Cuza University Iasi,Master,Master of Science (MSc) Distributed Sistems ,California,,9
+190,Data Engineer,200,Guru Gobind Singh Indraprastha University,Master,Master of Computer Applications (MCA) Computer Science ,California,San Francisco,14
+191,Data Engineer,201,University of Chicago,Master,Master of Science - MS Computer Science ,Illinois,Chicago,4
+192,Data Engineer,202,Princeton University,Bachelor,Bachelor of Arts (B.A.) Geosciences ,California,,6
+193,Data Engineer,203,The University of Connecticut School of Business,Master,Master’s Degree Business Analytics and Project Management ,New York,New York,4
+194,Data Engineer,204,University at Buffalo,Master,Master's degree Computer Science 3.67,California,,8
+195,Data Engineer,205,"University of California, Berkeley",Master,Master's degree Master of Information and Data Science ,California,Los Angeles,12
+196,Data Engineer,206,University of Southern California,Master,Master's degree Computer Science 3.4/4,California,,7
+197,Data Engineer,207,University of Illinois at Urbana-Champaign,Master,Master of Science - MS Information Management ,Illinois,,4
+198,Data Engineer,208,Silicon Valley University,Master,Master's degree Computer Engineering Program ,California,,8
+199,Data Engineer,209,"University of California, Los Angeles",Bachelor,Bachelor’s Degree Computer Science ,California,San Francisco,3
+200,Data Engineer,210,The Johns Hopkins University,etc, Data Science ,California,,7
+201,Data Engineer,211,"University of California, Davis",Bachelor,Bachelor of Science (B.S.) Computer Science ,New York,New York,5
+202,Data Engineer,212,Anna University,Bachelor,Bachelor of Engineering (B.E.) Mechanical Engineering ,California,San Francisco,12
+203,Data Engineer,213,University of Southern California,Master,Master's degree Computer Science ,California,San Francisco,6
+204,Data Engineer,214,"Naveen Jindal School of Management, UT Dallas",Master,Master of Science - MS Information Technology and Management ,Texas,,4
+205,Data Engineer,215,No school,No Degree,No degree,California,,7
+206,Data Engineer,216,New Jersey Institute of Technology,Master,Master's degree Computer Science ,California,San Francisco,9
+207,Data Engineer,217,"University of California, Santa Cruz",Bachelor,BS Computer Science Cum Laude with Honors,New York,New York,7
+208,Data Engineer,218,University of South Florida,Master,Master's degree  3.78,California,San Francisco,10
+209,Data Engineer,219,General Assembly,etc, Data Science ,Massachusetts,Boston,2
+210,Data Engineer,220,Columbia University in the City of New York,Master,"Master's Degree Electrical, Electronics and Communications Engineering ",New York,New York,5
+211,Data Engineer,221,New York Institute of Technology,Master,Master's degree Computer Science 4.0,New York,New York,8
+212,Data Engineer,222,Monroe Community College,etc, Computer Info Systems ,New York,New York,19
+213,Data Engineer,223,University of Massachusetts Dartmouth,Master,Master’s Degree Computer and Information Sciences 3.87,New Jersey,,2
+214,Data Engineer,224,The University of Texas at Dallas,Master,Master of Science - MS Information Technology and Management ,,,2
+215,Data Engineer,225,Brandeis University,Bachelor,"B.A Economics, Business ",California,,6
+216,Data Engineer,226,Illinois Institute of Technology,Master,Master's degree Computer Science ,California,,4
+217,Data Engineer,227,SRM University,Master,Master's degree Computer Science ,California,,10
+218,Data Engineer,228,"University of California, San Diego",Master,Master of Science (MS) Computer Science 3.53/4.00,California,,7
+219,Data Engineer,229,University of Phoenix,Bachelor,Bachelors of Science Information Technology ,California,Los Angeles,10
+220,Data Engineer,230,University of Michigan,Bachelor,Bachelor of Science (B.S.) Computer Science ,New York,New York,9
+221,Data Engineer,231,University of Southern California,Master,Master of Science (MS) Computer Science ,California,San Francisco,4
+222,Data Engineer,232,National Institute of Technology Silchar (Assam),Bachelor,BS Mechanical Engineering ,California,,20
+223,Data Engineer,233,"Mepco Schlenk Engineering College,Sivakasi",Bachelor,Bachelor of Engineering (B.E.) Mechanical Engineering ,California,,3
+224,Data Engineer,234,NED University of Engineering and Technology,etc,Engineer's Degree Computer Software Engineering 3.896,Washington,,4
+225,Data Engineer,235,University of Arizona,Master,Master of Science (MS) Management Information Systems 3.9/4.0,Texas,,7
+226,Data Engineer,236,University of Colorado at Boulder,Master,Master of Arts (M.A.) Cognitive Science ,Colorado,,18
+227,Data Engineer,237,University of Houston,Master,Master of Engineering (M.Eng.) Computer Science& Conmunication ,Washington,Seattle,3
+228,Data Engineer,238,Georgia State University - J. Mack Robinson College of Business,Master,Master's Degree Management Information Systems ,Washington,,6
+229,Data Engineer,239,The University of Texas at Dallas,Master,Master’s Degree Computer Science 4.0/4.0,California,San Francisco,4
+230,Data Engineer,240,Seattle Pacific University,Bachelor,"B.S. & B.A. Mathematics & Philosophy, resp. ",Tennessee,Nashville,9
+231,Data Engineer,241,"University of California, Berkeley",Bachelor,Bachelor of Arts (B.A.) Computer Science ,California,,2
+232,Data Engineer,242,The University of Texas at Dallas,Master,"Master of Science - MS Management Information Systems, General 3.5",Texas,,3
+233,Data Engineer,243,Mahatma Gandhi University,etc,Engineer's Degree Electronics and Communications Engineering ,Ohio,,9
+234,Data Engineer,244,Stanford University,Bachelor,BS Computer Science ,California,San Francisco,8
+235,Data Engineer,245,University of Southern California,Master,Master's Degree Electrical and Electronics Engineering GPA 3.5/4.0,California,Los Angeles,4
+236,Data Engineer,246,NYU Stern School of Business,Master,"Master's degree Management Information Systems, General ",California,San Francisco,11
+237,Data Engineer,247,Arizona State University,Master,Master’s Degree Computer Science (Big Data Systems) 3.89/4,California,,5
+238,Data Engineer,248,National Institute of Technology Tiruchirappalli,Master,Master Of Enginneering  ,California,,16
+239,Data Engineer,249,University of Paisley,Master,"Master of Science in Advanced Computer Systems Development Datawarehousing, Business Intelligence and Object Oriented Programming ",North Carolina,,15
+240,Data Engineer,250,"University of California, Berkeley",Bachelor,Bachelor's Degree Computer Science ,California,,3
+241,Data Engineer,251,The University of Texas at Dallas,Master,Master's degree Computer Science ,Texas,,7
+242,Data Engineer,252,Georgia Institute of Technology,Master,Master’s Degree Statistics 3.70,California,,4
+243,Data Engineer,253,Syracuse University School of Information Studies,Master,Master of Science - MS Information Management | Certificate of Advanced Study in Data Science 3.96/4.00,California,,3
+244,Data Engineer,254,New Jersey Institute of Technology,Master,Master’s Degree Information Science/System ,New York,New York,2
+245,Data Engineer,255,Northern Illinois University,Master,Master’s Degree Computer Science ,New York,New York,10
+246,Data Engineer,256,The University of Texas at Dallas,Master,Master’s Degree Management Information Systems 3.7/4.0,Texas,Dallas,5
+247,Data Engineer,257,University of Pennsylvania,Master,MSE Computer and Information Science ,New York,New York,11
+248,Data Engineer,258,Northeastern University,Master,Master's degree  ,Massachusetts,Boston,6
+249,Data Engineer,259,The University of Connecticut,Ph.D,Doctor of Philosophy (Ph.D.) Materials Science ,California,,12
+250,Data Engineer,260,The Johns Hopkins University,Ph.D,Ph.D. Physics and Astronomy ,New York,New York,12
+251,Data Engineer,261,The University of Texas at Arlington,Master,Master’s Degree Computer Science 3.0 -4.0,California,San Francisco,3
+252,Data Engineer,262,California State University-East Bay,Master,MS Biostatistics ,California,San Francisco,13
+253,Data Engineer,263,University of Utah - David Eccles School of Business,Master,Master’s Degree Information Systems 3.7,New York,New York,7
+254,Data Engineer,264,Caltech,Master,Master Electrical Engineering ,California,,7
+255,Data Engineer,265,University of Virginia,Bachelor,"B.S., Systems and Information Engineering Business (minor), Global Sustainability (minor) ",Washington,,6
+256,Data Engineer,266,Michigan State University,Ph.D,Doctor of Philosophy (Ph.D.) Astronomy and Astrophysics ,Texas,Dallas,9
+257,Data Engineer,267,Massachusetts Institute of Technology,Master,Master of Science (S.M) Technology and Policy ,California,San Francisco,6
+258,Data Engineer,268,Arizona State University,etc,Graduate Computer Science ,North Carolina,Charlotte,6
+259,Data Engineer,269,Stevens Institute of Technology,Master,"Master's degree Management Information Systems, General 3.75",New York,New York,4
+260,Data Engineer,270,Illinois Institute of Technology,Master,Master's degree Computer Science 3.7,Illinois,,3
+261,Data Engineer,271,"University of California, Berkeley",Master,Master's  Information and Data Science,California,,4
+262,Data Engineer,272,Northeastern University,Master,Master’s Degree Information Systems ,Massachusetts,Boston,3
+263,Data Engineer,273,Texas A&M University,Master,Master's degree Management Information Systems 4.0,Texas,Houston,8
+264,Data Engineer,274,Saint Joseph's University,Master,Master's degree Business Intelligence & Analytics ,Pennsylvania,Philadelphia,4
+265,Data Engineer,275,"University of California, Berkeley",Bachelor,Bachelor’s Degree Chemical Engineering and Data Science ,New York,New York,3
+266,Data Engineer,276,VITAM,Bachelor,Bachelor of Technology (B.Tech.) Computer Sc ,California,San Francisco,15
+267,Data Engineer,277,The University of Texas at Arlington,Master,Master’s Degree Management Information Systems 3.83,California,,6
+268,Data Engineer,278,Columbia University in the City of New York,Master,Master's degree Applied Analytics ,New York,New York,3
+269,Data Engineer,279,Georgia Institute of Technology,etc,Full Stack Flex Computer Software Engineering ,Georgia,Atlanta,5
+270,Data Engineer,280,Texas A&M University,Master,Masters Electrical engineering ,California,,4
+271,Data Engineer,281,New York University,Master,Master's degree Cybersecurity Risk and Strategy ,Texas,,9
+272,Data Engineer,282,"University of California, Berkeley",Bachelor,Bachelor’s Degree Cognitive Science ,California,San Francisco,4
+273,Data Engineer,283,SUNY Binghamton,Master,Master of Science Computer Science ,Washington,Seattle,9
+274,Data Engineer,284,Columbia University in the City of New York,Master,Master of Science - MS Computer Engineering 3.83 / 4,New York,New York,9
+275,Data Engineer,285,California Polytechnic State University-San Luis Obispo,Bachelor,BS Business Administration ,California,,12
+276,Data Engineer,286,"University of California, Davis",Bachelor,Bachelor of Science (B.S.) Computer Science and Engineering ,New York,New York,4
+277,Data Engineer,287,Texas A&M University,Master,Master of Science (M.S.) Information Science/Studies ,California,San Francisco,5
+278,Data Engineer,288,Louisiana State University,Bachelor,Bachelor of Arts (B.A.) Interdisciplinary Studies ,Louisiana,,21
+279,Data Engineer,289,University of Washington,Master,"Master of Science (M.S.) Management Information Systems, General 3.21",Washington,Seattle,7
+280,Data Engineer,290,New Jersey Institute of Technology,Master,Master of Science (MS) Computer Science 3.68,New Jersey,,2
+281,Data Engineer,291,University of Texas at Dallas - Naveen Jindal School of Management,Master,"Master's degree Management Information Systems, General 3.36",Texas,,6
+282,Data Engineer,292,Georgia State University - J. Mack Robinson College of Business,Master,Masters of Science in Information Systems (MSIS) Big Data Management and Analytics ,Washington,Seattle,8
+283,Data Engineer,293,University of San Francisco,Master,Master of Science - MS Data science ,California,San Francisco,6
+284,Data Engineer,294,Northeastern University,Master,Master of Science (M.S.) Information Systems ,Massachusetts,Boston,2
+285,Data Engineer,295,State University of New York at Stony Brook,Master,MS Computer Science ,California,San Francisco,14
+286,Data Engineer,296,Binghamton University,Master,Master of Science - MS Computer Science ,New York,New York,2
+287,Data Engineer,297,Colorado State University,Master,Master’s Degree Computer and Information Systems Security/Information Assurance 3.75/4,Massachusetts,Boston,10
+288,Data Engineer,298,NYU Tandon School of Engineering,Master,Master's degree Cyber Security ,New York,New York,5
+289,Data Engineer,299,Central Michigan University,Master,Master's degree Computer Science 3.71/4.00,Illinois,,3
+290,Data Engineer,300,Columbia Engineering,etc,Applied Data Science by Columbia Engineering Applied Data Science 10.29 / 12.00,California,,11
+291,Data Engineer,301,Valencia College,etc,IT Specialist Information Technology ,Florida,,2
+292,Data Engineer,302,Arizona State University,Master,Master’s Degree Business Analytics GPA - 4,California,Los Angeles,6
+293,Data Engineer,303,University of Houston,Master,"Master of Science (MS) Data Analytics, Applied Math ",Texas,Houston,7
+294,Data Engineer,304,University of Illinois at Chicago,Master,"Master of Science - MS Management Information Systems, General ",Oregon,Portland,5
+295,Data Engineer,305,Hunter College,Bachelor,BA Computer Science(Major) and Mathmatics(Minor) ,New York,New York,11
+296,Data Engineer,306,NYU Tandon School of Engineering,Master,Master of Science (M.S.) Computer Science 3.1,Oregon,Portland,5
+297,Data Engineer,307,University of Waterloo,Master,Master's Degree Computer Science ,California,San Francisco,2
+298,Data Engineer,308,University at Buffalo,Master,Master of Science (M.S.) Electrical/ Computer Engineering 3.8/4.0,California,,7
+299,Data Engineer,309,University of South Florida,Master,"Master's degree Management Information Systems, General 3.7",Florida,,5
+300,Data Engineer,310,Stevens Institute of Technology,Master,Master’s Degree Computer Science 3.9,New York,New York,5
+301,Data Engineer,311,The University of Texas at Dallas,Master,Master of Science (MS) Business Analytics - Data Science 3.94,California,Los Angeles,9
+302,Data Engineer,312,Columbia University in the City of New York,Master,Master of Science (MS) Applied Mathematics ,New York,New York,3
+303,Data Engineer,314,University of Illinois at Chicago,Master,Master's degree Management Information Systems 3.7/ 4,Illinois,Chicago,4
+304,Data Engineer,315,Ira A. Fulton Schools of Engineering at Arizona State University,Master,Master of Science - MS Computer Engineering (Computer Systems) ,Arizona,,5
+305,Data Engineer,316,University of Illinois at Chicago,Master,Master of Science (M.S.) Management Information Systems ,Illinois,Chicago,10
+306,Data Engineer,318,Stevens Institute of Technology,Master,"Master of Science (M.S.) Business Intelligence and Analytics, concentration: Data Science GPA: 3.83/4.0",New York,New York,11
+307,Data Engineer,319,University of Central Missouri,Master,"Master of Science (M.S.),Data Science Computer Science 3.6",Texas,Dallas,3
+308,Data Engineer,320,University of Mary Hardin-Baylor,Bachelor,B.S. Marketing/Psychology ,Texas,Houston,8
+309,Data Engineer,321,Colgate University,etc, Computer Science ,Massachusetts,Boston,10
+310,Data Engineer,322,Arizona State University - W. P. Carey School of Business,Master,Master of Science (M.S.) Business Analytics ,Arizona,Phoenix,6
+311,Data Engineer,323,The University of Texas at Dallas,Master,Master's degree Information Technology Management ,Texas,,5
+312,Data Engineer,324,No school,No Degree,No degree,Texas,,10
+313,Data Engineer,325,New York University,Master,Master of Science (M.S.) Data Analytics of Integrated Marketing ,New York,New York,5
+314,Data Engineer,326,No school,No Degree,No degree,California,San Francisco,5
+315,Data Engineer,327,The University of Texas at Austin,Master,Master's Degree Computer Science ,California,,18
+316,Data Engineer,328,한국과학기술원(KAIST),Master,Master's degree Master of Science in Information Management ,Washington,,13
+317,Data Engineer,329,"University of California, Berkeley",Bachelor,Bachelor's Degree Molecular Toxicology ,California,,8
+318,Data Engineer,330,Jawaharlal Nehru Technological University,Bachelor,"Bachelor of Technology (B.Tech.) Electrical, Electronics and Communications Engineering ",California,,10
+319,Data Engineer,331,Worcester Polytechnic Institute 3.5 GPA,Master,Master’s Degree Data science 3.5 GPA,Massachusetts,Boston,6
+320,Data Engineer,332,Anna University,Bachelor,Bachelor's in Engineering Computer Science ,New York,New York,14
+321,Data Engineer,333,The University of Texas at Arlington,Master,Master's degree Computer Science ,California,San Francisco,7
+322,Data Engineer,334,Savitribai Phule Pune University,Bachelor,B.E Computer Engineering ,California,San Francisco,28
+323,Data Engineer,335,Moscow State University,Bachelor,B.S./M.S Physics ,Virginia,,8
+324,Data Engineer,336,University of Virginia,Master,Master of Science (M.S.) Systems Engineering ,New York,New York,3
+325,Data Engineer,337,"Karnataka University,Dharwad",Bachelor,Bachelor’s Degree Computer Science ,California,,12
+326,Data Engineer,338,"Nova Southeastern University, Graduate School of Computer and Information Sciences",Master,MIS Management Information Systems ,California,,10
+327,Data Engineer,339,San Jose State University,Master,Master's degree Computer Engineering 3.8,California,,1
+328,Data Engineer,340,UCLA,Bachelor,BS Computational and Systems Biology ,California,San Francisco,9
+329,Data Engineer,341,University of Illinois at Urbana-Champaign,Bachelor,Bachelor of Engineering (BEng) Computer Science Senior,Washington,,9
+330,Data Engineer,342,Northeastern University,Master,Master of Science - MS Information Systems ,,,4
+331,Data Engineer,343,"P. G. Department of Computer Science, SNDT Womens' University",Master,MCA Computer Applications; ,California,,14
+332,Data Engineer,346,Rio Salado College,etc,Associate of Science - AS Computer Technology 4.0,Arizona,Phoenix,11
+333,Data Engineer,347,Texas A&M University,Master,Master’s Degree Computer Science 4.0,California,San Francisco,8
+334,Data Engineer,348,University of South Florida,Master,"Master's degree Management Information Systems, General ",New York,New York,4
+335,Data Engineer,349,Georgia State University - J. Mack Robinson College of Business,Master,Master's degree Information Systems - Big Data Analytics ,Washington,Seattle,6
+336,Data Engineer,350,University of Delaware,Bachelor,Bachelor's Degree Finance ,California,,2
+337,Data Engineer,351,Purdue University,Bachelor,Bachelor of Science (B.S.)  ,California,,8
+338,Data Engineer,352,University of Illinois at Urbana-Champaign,Master,"Master of Computer Science, Data Science  ",California,San Francisco,12
+339,Data Engineer,353,Indiana University Bloomington,Master,Master’s Degree Data Science ,California,,4
+340,Data Engineer,354,Texas A&M University-Kingsville,Master,Master’s Degree Computer Science ,California,San Francisco,4
+341,Data Engineer,355,Harvard Business School,etc,"SVMP Business Administration and Management, General ",Texas,Houston,2
+342,Data Engineer,356,Illinois Institute of Technology,Master,Master’s Degree Computer Science 3.60 out of 4.0,Illinois,Chicago,3
+343,Data Engineer,357,University of central missouri,Master,Master of Science (MS) Information Technology ,New York,New York,10
+344,Data Engineer,358,University of Illinois at Chicago,Master,MS Management Information Systems ,Illinois,Chicago,7
+345,Data Engineer,359,University of Nebraska at Omaha,Master,Master of Science (MS) Management Information Systems ,California,San Francisco,8
+346,Data Engineer,360,California State University-Long Beach,Master,Master of Science (MS) Computer Science ,California,San Francisco,6
+347,Data Engineer,361,Northeastern University,Master,Master of Science - MS Data science 3.6,Massachusetts,Boston,2
+348,Data Engineer,362,University of Toronto,Master,Master's degree Computer Engineering ,California,San Francisco,3
+349,Data Engineer,363,UC Davis,etc,Computer Science B.S Computer Science ,California,,5
+350,Data Engineer,364,Andhra University,Bachelor,Bachelor's degree  ,California,San Francisco,14
+351,Data Engineer,365,Columbia University in the City of New York,Master,Master of Arts - MA Statistics 3.53/4.00,California,San Francisco,1
+352,Data Engineer,373,University at Buffalo,Master,Master's degree Management Information Systems ,South Carolina,,3
+353,Data Engineer,374,PESIT,Bachelor,Bachelor of Engineering (BE) Information Technology ,California,,7
+354,Data Engineer,375,New York University,Bachelor,Bachelor's degree Psychology and Philosphy ,New York,New York,2
+355,Data Engineer,376,UCLA Anderson School of Management,Master,Master of Science in Business Analytics  ,California,Los Angeles,2
+356,Data Engineer,378,The George Washington University,etc,Certificate Systems Engineering ,California,,7
+357,Data Engineer,379,Chalmers University of Technology,Master,Master's Degree Secure and Dependable Computer Systems ,California,,8
+358,Data Engineer,380,University of South Alabama,Master,"Master's degree Computer and Information Sciences, General ",California,San Francisco,6
+359,Data Engineer,381,Northeastern University,Master,Master of Science (MS) Information Systems ,Massachusetts,Boston,6
+360,Data Engineer,382,Santa Clara University,Master,Master of Science - MS Information Systems ,California,,2
+361,Data Engineer,383,University of Missouri-Rolla,Master,Master’s Degree Computer Engineering ,Texas,,5
+362,Data Engineer,384,The University of Texas at Austin,etc,Health Informatics and Health IT Program; Focus: Data Analytics  ,Texas,,6
+363,Data Engineer,385,Stanford University,etc,CS Python ,California,,10
+364,Data Engineer,386,Northeastern University,Master,Master's degree Management Information Systems 3.6,Massachusetts,Boston,4
+365,Data Engineer,387,UC Irvine,etc,Teaching Credential English ,California,San Francisco,12
+366,Data Engineer,388,Northeastern University,Master,Master of Science - MS Information systems (Computer Software Engineering) 4.0,California,,2
+367,Data Engineer,389,"University of California, Davis",Bachelor,Bachelor of Arts English and Art History ,California,,7
+368,Data Engineer,390,Wayne State University,Master,Master's degree Computer Science ,North Carolina,,5
+369,Data Engineer,391,Jawaharlal Nehru Technological University,Bachelor,Bachelor's degree in Engineering  Distinction,California,,8
+370,Data Engineer,392,Indiana University - Kelley School of Business,Master,Master of Science - MS Information Systems ,New York,New York,1
+371,Data Engineer,393,Stanford University,etc,Statistical Learning Department of Statistics ,California,,5
+372,Data Engineer,394,"Southern Illinois University, Edwardsville",etc,  ,California,,9
+373,Data Engineer,395,Priyadarshini College of Engineering [RTM Nagpur University],Bachelor,Bachelor of Engineering (B.E.) Computer Technology ,California,San Francisco,6
+374,Data Engineer,396,Rajiv Gandhi Prodyogiki Vishwavidyalaya,Bachelor,BE Computer Science ,New York,New York,1
+375,Data Engineer,397,Lamar University,Master,Master of Science - MS Computer Science 3.9,New York,New York,10
+376,Data Engineer,398,University of Missouri-Kansas City,Master,Master of Science - MS Computer Science 3.55,Washington,Seattle,1
+377,Data Engineer,399,Northeastern University,Master,Master of Science - MS Information Systems GPA: 3.8,Massachusetts,Boston,2
+378,Data Engineer,400,University of Michigan,Bachelor,Bachelor of Science - BS Informatics 3.8 GPA,Illinois,Chicago,5
+379,Data Engineer,401,University of Illinois at Chicago,Master,"Master of Science - MS Management Information Systems, General 3.52",Wisconsin,,6
+380,Data Engineer,402,Maharishi University of Management,Master,Master of Science - MS Data Science ,California,,5
+381,Data Engineer,403,"College of Engineering and Technology , Bhubaneswar",Bachelor,Bachelor's Degree Computer Science 8/10,California,,10
+382,Data Engineer,404,The Johns Hopkins University,Master,Master degree in Data science Data science ,Washington,Seattle,10
+383,Data Engineer,406,"University of California, Berkeley",Master,Master of Information and Data Science  ,New York,New York,5
+384,Data Engineer,407,University of Illinois at Chicago,Master,"Master's degree Management Information Systems, General Major 4.0/4.0",Washington,Seattle,3
+385,Data Engineer,408,"University of California, Riverside",Master,Master's degree Computer Science ,California,San Francisco,4
+386,Data Engineer,409,University of Washington,Master,MBA Technology Management ,New York,New York,6
+387,Data Engineer,410,University of Wisconsin-Madison,Master,Master's degree  ,California,San Francisco,9
+388,Data Engineer,411,University of Illinois at Urbana-Champaign,Bachelor,Bachelor of Science (B.S.) Electrical Engineering ,New York,New York,3
+389,Data Engineer,412,Northeastern University,Master,Master's Degree Information Systems ,California,Los Angeles,8
+390,Data Engineer,413,The University of Texas at Austin,etc, Data Science and Visualization A,Texas,,7
+391,Data Engineer,414,Georgia Institute of Technology,Master,Master's degree (in progress) Computer Science ,California,Los Angeles,5
+392,Data Engineer,415,Stanford University,etc,Certificate Program Data Mining and Statistics A,California,San Francisco,8
+393,Data Engineer,416,Clark University,Bachelor,BA Computer Science ,California,,6
+394,Data Engineer,417,Carnegie Mellon University,Master,"Master’s Degree Management Information Systems, General 3.9/4",California,,5
+395,Data Engineer,418,GITAM University,Bachelor,Bachelor's degree EIE ,Florida,Jacksonville,6
+396,Data Engineer,419,Amravati University,Bachelor,B.E. Computer Engineering ,Georgia,Atlanta,29
+397,Data Engineer,420,The University of Texas at Dallas,Master,Master's degree Business Analytics (Data Science) 3.91,Texas,,2
+398,Data Engineer,421,Princeton University,Bachelor,BSE Computer Science ,California,,2
+399,Data Engineer,422,Stony Brook University,Bachelor,BS Computer Science ,New York,New York,15
+400,Data Engineer,423,New York University,etc,Stern School of Business | W. R. Berkley Innovation Labs - Entrepreneurs Challenge  ,Ohio,,2
+401,Data Engineer,424,Case Western Reserve University,Master,"M.A. Cognitive Linguistics, World Literature ",California,San Francisco,13
+402,Data Engineer,425,New York University Shanghai,Bachelor,Bachelor's degree Computer Science Sophomore,New York,New York,2
+403,Data Engineer,426,Illinois Institute of Technology,Master,Master of Science (M.S.) Computer Science 3.5,Illinois,Chicago,11
+404,Data Engineer,427,San Jose State University,Master,Master's degree Software engineering 3.64,California,San Francisco,5
+405,Data Engineer,428,Red Rocks Community College,etc,Associate of Science - AS Computer Science ,Colorado,Denver,8
+406,Data Engineer,429,The University of Iowa Tippie College of Business,Master,MBA Marketing & Strategy ,Washington,Seattle,20
+407,Data Engineer,430,Indiana University Bloomington,Master,Master of Library & Information Science (MLIS) Library and Information Science 3.6/4.0,California,,3
+408,Data Engineer,431,Maharshi Dayanand University Rohtak,Bachelor,Bachelor of Engineering - BE Computer Engineering ,California,San Francisco,17
+409,Data Engineer,432,Northeastern University,Master,Master's degree Industrial Engineering ,Massachusetts,Boston,3
+410,Data Engineer,433,Carnegie Mellon University,Master,MISM Information Systems Management ,California,San Francisco,12
+411,Data Engineer,434,Stanford University,Ph.D,Doctor of Philosophy (Ph.D.) Physics ,California,,13
+412,Data Engineer,436,University of North Carolina at Charlotte,Master,Master of Science Computer Science 3.8/4,Colorado,Denver,4
+413,Data Engineer,437,University of Illinois at Chicago (UIC) - Liautaud Graduate School of Business,Master,Master of Science (M.S.) Management Information Systems 3.54/4,Illinois,Chicago,8
+414,Data Engineer,438,Northeastern University,Master,Master’s Degree Management Information Systems ,California,,8
+415,Data Engineer,439,Yonsei University,Bachelor,"Bachelor's degree in Economics and Statistics Economics and Statistics GPA : Economics (4.05/4.3), Mathematics & Statistics (3.8/4.3)",California,San Francisco,5
+416,Data Engineer,440,"BITS, Pilani",Master,Master of Science (MS) Computer Science ,California,,9
+417,Data Engineer,441,The University of Texas at Dallas,Master,Master of Science (M.Sc.) Computer Science - Data Science ,Texas,,7
+418,Data Engineer,442,Northeastern University,Master,Master’s Degree Information Technology ,Massachusetts,Boston,12
+419,Data Engineer,443,National Tsing Hua University,Bachelor,Bachelor of Science Quantitative Finance ,California,San Francisco,3
+420,Data Engineer,444,Anna University,Bachelor,"Bachelor's degree Electrical, Electronics and Communications Engineering ",Texas,Dallas,14
+421,Data Engineer,445,Temple University,Bachelor,Bachelor of Science (B.S.) Information Science & Technology ,New York,New York,6
+422,Data Engineer,446,University of Central Missouri,Master,Master's degree Computer and Information Systems Security/Information Assurance 3.5/4,Washington,,11
+423,Data Engineer,447,Texas A&M University,Master,Master of Science (M.S.) Management Information Systems ,New York,New York,5
+424,Data Engineer,448,HBX | Harvard Business School,etc,"CORe (Credential of Readiness): Business Analytics, Economics for Managers and Financial Accounting  ",New York,New York,17
+425,Data Engineer,449,Hankuk University of Foreign Studies,Master,MA MIS (Management Information System) ,California,,15
+426,Data Engineer,450,California State Polytechnic University-Pomona,Master,MS Computer Science ,California,,12
+427,Data Engineer,451,"Shanmugha Arts, Science, Technology and Research Academy",Bachelor,BE Information Technology ,California,San Francisco,22
+428,Data Engineer,452,State University of New York at Buffalo,Master,"Master of Science (MS) Computer and Information Sciences, General ",California,,6
+429,Data Engineer,453,Tecnologico de Monterrey,Master,Master Science in Innovation and Technological Entrepreneurship ,California,Los Angeles,10
+430,Data Engineer,454,Stevens Institute of Technology,Master,Master's degree Management Information Systems 3.92,New York,New York,8
+431,Data Engineer,455,University of Mumbai,Bachelor,B.E. Computer Science ,California,San Francisco,19
+432,Data Engineer,456,Georgia Institute of Technology,Master,Master’s Degree Computational Data Analytics ,California,,6
+433,Data Engineer,457,University of Maryland College Park,Bachelor,Bachelor of Science (B.S.) Mathematics ,New York,New York,6
+434,Data Engineer,458,Jawaharlal Nehru Technological University,etc,  ,Missouri,St. Louis,13
+435,Data Engineer,459,Boston University - Metropolitan College,Master,Master of Science (M.S.) Computer Science 3.91,Massachusetts,Boston,6
+436,Data Engineer,460,University of Toronto,Master,MA Economics ,New York,New York,9
+437,Data Engineer,461,University of North Carolina at Charlotte,Master,Master of Science (MS) Data Science and Analytics 3.88/4,Washington,Seattle,5
+438,Data Engineer,462,"University of California, Berkeley",etc," Economics, Music ",California,,20
+439,Data Engineer,463,C V Raman College of Engineering - Bhubaneswar,Bachelor,Bachelor of Engineering - BE Information Technology ,California,,6
+440,Data Engineer,464,Cornell University,Master,M.S. Computer Science 3.8,California,,10
+441,Data Engineer,465,University of Illinois at Urbana-Champaign,Master,"MS, Ph.D. Computer Science ",California,,21
+442,Data Engineer,466,"R. V. College of Engineering, Bangalore",Bachelor,B.E Computer Science ,California,,9
+443,Data Engineer,467,Columbia University in the City of New York,Master,"Master of Arts (M.A.) Mathematics, GPA 3.9/4.0 ",New York,New York,12
+444,Data Engineer,468,Rutgers Business School,Master,Master of Science - MS Information Technology and Analytics ,Virginia,,3
+445,Data Engineer,469,William & Mary ? Raymond A. Mason School of Business,Master,Master of Science Business Analytics 4.0,North Carolina,Charlotte,12
+446,Data Engineer,470,Georgia Institute of Technology,Bachelor,Bachelor of Science Industrial and Systems Engineering (ISyE); Operations Research and Statistics Track ,California,,14
+447,Data Engineer,471,Northeastern University,etc,Computer Engineering  ,California,,10
+448,Data Engineer,472,Rensselaer Polytechnic Institute,Bachelor,B.S.E.E. Computer Systems Engineering ,California,,24
+449,Data Engineer,473,General Assembly,etc,Data Science in-classroom course  ,California,,10
+450,Data Engineer,474,B D Memorial Institute,etc,CBSE Science ,California,,5
+451,Data Engineer,475,Indiana University Bloomington,Master,Master's degree Data Science ,California,San Francisco,0
+452,Data Engineer,476,Southern Methodist University,Bachelor,Bachelor’s Degree Management Information Systems ,Texas,,12
+453,Data Engineer,477,Purdue University,Bachelor,Bachelor of Science Nuclear Engineering ,Washington,Seattle,12
+454,Data Engineer,478,Carnegie Mellon University - Heinz College of Information Systems and Public Policy,Master,Master of Information Systems Management Information Technology ,Illinois,Chicago,4
+455,Data Engineer,479,University of Southern California,Ph.D,Doctor of Philosophy (Ph.D.) Bioinformatics ,,,4
+456,Data Engineer,480,The George Washington University,Master,Master of Science - MS Computer Science ,Washington,,3
+457,Data Engineer,481,No school,No Degree,No degree,Illinois,Chicago,2
+458,Data Engineer,482,UC Irvine,Ph.D,Ph.D. Philosophy (Physics Emphasis) ,California,Los Angeles,6
+459,Data Engineer,483,Fastai,etc,Deep Learning Part 1 Deep Learning NA,Washington,Seattle,7
+460,Data Engineer,484,Cornell University,Master,M.Eng Computer Science ,New York,New York,9
+461,Data Engineer,485,Howard University,Bachelor,Bachelor of Arts - BA Economics ,Washington,,7
+462,Data Engineer,486,Kalamazoo College,Bachelor,"Bachelor of Arts Computer Science, Japanese 4.0",California,,7
+463,Data Engineer,487,"University of California, Davis",Bachelor,"Bachelor of Science, Computer Science Database Design, Database Administration, Software Engineering, Security, Cryptography ",California,,11
+464,Data Engineer,488,Carnegie Mellon University,Master,Master of Science (MS) Electrical and Computer Engineering ,Washington,,2
+465,Data Engineer,489,University of Vermont,Bachelor,BS Management Information Systems ,Massachusetts,,13
+466,Data Engineer,490,San Jose State University,Master,Master of Science - MS Computer Software Engineering 3.76,California,San Francisco,6
+467,Data Engineer,491,Georgia Institute of Technology,Master,Master of Science - MS Computer Science ,California,San Francisco,3
+468,Data Engineer,492,"University of California, Berkeley",Bachelor,Bachelor of Arts (B.A.) Applied Mathematics with a Concentration in Operations Research ,Massachusetts,Boston,8
+469,Data Engineer,493,Carnegie Mellon University,Master,"Master's degree Management Information Systems, General ",California,,3
+470,Data Engineer,494,University of Rochester - Simon Business School,Master,"Master of Science, Business Analytics  ",Massachusetts,,3
+471,Data Engineer,495,University of Washington,Bachelor,"BSIE & BA Industrial Engineering, Painting and Drawing ",California,,8
+472,Data Engineer,496,Ain Shams University,Bachelor,Bachelor Physics & Computer Science ,California,,20
+473,Data Engineer,497,Stanford University,Master,"MS Computational and Mathematical Engineering, MS MS&E  ",New York,New York,6
+474,Data Engineer,498,No school,No Degree,No degree,Washington,Seattle,20
+475,Data Engineer,499,Uttar Pradesh Technical University,Bachelor,B.Tech Information Technology ,New York,New York,13
+476,Data Engineer,500,Western Illinois University,Master,Master of Science - MS Computer Science ,Texas,,4
+477,Data Engineer,501,"University of California, Berkeley",Bachelor,Bachelor of Arts (B.A.) statistics ,Texas,,4
+478,Data Engineer,502,Platinum Jubliee High school,Bachelor,Bachelor’s Degree Bachelor of Science in Computer Science A,North Carolina,,14
+479,Data Engineer,503,University of Central Missouri,Master,Master of Science - MS Computer Science ,California,,2
+480,Data Engineer,505,Jaypee University of Information Technology,Bachelor,B.Tech Computer Science ,California,,13
+481,Data Engineer,506,Weatherhead School of Management at Case Western Reserve University,Master,Master of Science - MS Operations research ,California,San Francisco,6
+482,Data Engineer,507,New York Institute of Technology,Bachelor,Bachalors in Computer Science Computer Science ,New York,New York,6
+483,Data Engineer,508,Old Dominion University,Ph.D,PhD Computer Engineering ,Washington,,12
+484,Data Engineer,509,UC San Francisco,Ph.D,Ph.D Neuroscience ,Washington,Seattle,13
+485,Data Engineer,510,"Indian Institute of Technology, Kharagpur",Master,Master of Science Mathematics and Computing ,California,San Francisco,8
+486,Data Engineer,511,Taylor University,Bachelor,BS Computer Science/Systems ,California,San Diego,12
+487,Data Engineer,512,Carnegie Mellon University - H. John Heinz III College,Master,Master's degree Management of information system ,Pennsylvania,,4
+488,Data Engineer,513,"Sreenidhi engineering college - SNIST, Hyderabad",Bachelor,Bachelor of Engineering (BEng) Computer Science ,Massachusetts,Boston,15
+489,Data Engineer,514,"S D M College of Engineering & Technology, Dharwad",Bachelor,Bachelor of Engineering - BE Computer Science and Engineering ,California,,5
+490,Data Engineer,515,Cornell University,Master,Master of Engineering (M.Eng.) Operations Research and Information Engineering ,California,San Francisco,7
+491,Data Engineer,517,University of Minnesota - Carlson School of Management,Master,Master's Degree Business Analytics GPA: 3.80/4.00,California,San Francisco,5
+492,Data Engineer,518,Lewis and Clark Tech,etc,Certificate Computer Programming ,Nevada,,15
+493,Data Engineer,519,Hack Reactor,etc,Advanced Software Engineering Immersive  ,California,San Francisco,4
+494,Data Engineer,521,No school,No Degree,No degree,,,4
+495,Data Engineer,522,Illinois Institute of Technology,Bachelor,Bachelor of Science (BS) Computer Science with a minor in applied Math ,California,San Francisco,11
+496,Data Engineer,523,University of Houston-Clear Lake,Master,Masters Computer Engineering GPA 3.8,Florida,,7
+497,Data Engineer,524,Stevens Institute of Technology,Master,Master of Science - MS Management Information Systems and Services 4.0,Massachusetts,,5
+498,Data Engineer,525,Case Western Reserve University,Master,Master's Degree Computer Science ,California,San Francisco,7
+499,Data Engineer,526,"Birla Institute of Technology and Science, Pilani",Master,Master of Science - MS Software Systems ,California,,0
+500,Data Engineer,527,University of Pennsylvania,Bachelor,Bachelor's Degree Bioengineering ,Arizona,Phoenix,5
+501,Data Engineer,528,Gubkin Russian State University of Oil and Gas (former Moscow State Academy of Oil and Gas),Master,MSc in Geophysics Seismic Exploration ,California,,17
+502,Data Engineer,529,Uttar Pradesh Technical University,Bachelor,Bachelor of Technology (BTech) Computer Science ,Washington,Seattle,7
+503,Data Engineer,530,Fayoum University,Bachelor,Bachelor's degree Computer Science ,California,San Francisco,7
+504,Data Engineer,531,New York University,Master,Master of Science (MS) Management of Technology ,New York,New York,7
+505,Data Engineer,532,University of Illinois at Chicago (UIC) - Liautaud Graduate School of Business,Master,"Master's degree Management Information Systems, General ",Washington,Seattle,7
+506,Data Engineer,533,Gannon University,Master,Master’s Degree  ,Virginia,,6
+507,Data Engineer,534,Birla Institute of Technology,Master,Master of Computer Applications - MCA Computer Science A,Texas,,9
+508,Data Engineer,535,DeVry University,Bachelor,BS Computer Engineering ,Massachusetts,Boston,9
+509,Data Engineer,536,Tel Aviv University,Master,M.Sc. Operations Research ,New York,New York,19
+510,Data Engineer,537,Great Lakes Institute of Management,etc,Post Graduate Program in Cloud Computing Cloud Computing ,California,,8
+511,Data Engineer,538,North Carolina State University,Master,Master of Statistics (Mu Sigma Rho) Data Scientist; Data Analysis; Modeling 4.0/4.0,New York,New York,5
+512,Data Engineer,539,"Birla Institute of Technology & Science, Pilani",Master,Masters of Science Computer Software Engineering 7.5 CGPA,Illinois,Chicago,3
+513,Data Engineer,540,"Aegis School of Business, Data Science & Telecommunication",etc,"Post Graduation Business Analytics And Big Data Science Post Graduate in Data Science, Business Analytics And Big Data Science",Louisiana,New Orleans,25
+514,Data Engineer,541,University of Florida,Master,MS Computer Engineering ,California,San Francisco,7
+515,Data Engineer,542,Texas A&M University - Mays Business School,Master,"Master of Science (MS) Management Information Systems, General ",California,San Francisco,9
+516,Data Engineer,543,Guru Gobind Singh Indraprastha University,Bachelor,Bachelor’s Degree Computer Science ,California,,13
+517,Data Engineer,544,Stevens Institute of Technology,Master,Master's degree Management Information Systems and Services 4,New York,New York,5
+518,Data Engineer,546,Syracuse University,Master,Master's degree Computer Science 3.77/4.0,California,San Francisco,7
+519,Data Engineer,548,Rutgers University,Master,Master's degree Information Technology and Analytics ,New York,New York,6
+520,Data Engineer,549,International Technological University,Master,Master of Science (M.S.) Computer Engineering ,North Carolina,Charlotte,11
+521,Data Engineer,550,University of South Florida,Master,Master of Science - MS Business Analytics and Information Systems 3.54,Illinois,Chicago,5
+522,Data Engineer,551,"University of California, Berkeley, Haas School of Business",etc,Executive Education Product Management Program  ,California,,18
+523,Data Engineer,553,Texas A&M University-Kingsville,Master,Master's degree Computer Science ,Texas,Dallas,4
+524,Data Engineer,554,Illinois Institute of Technology,Master,Master's degree Data Analytics and Data Management ,,,2
+525,Data Engineer,555,Belaruski Dziarzhauny Universitet,Master,Masters Mathematics and Computer Science ,California,,10
+526,Data Engineer,556,"University of Arizona, Eller College of Management",Master,"Master of Science (M.S.) Management Information Systems, Business Intelligence and Analytics ",California,San Francisco,6
+527,Data Engineer,557,Missouri University of Science and Technology,Master,Master of Science - MS Management Information Systems 4.0 GPA,Missouri,St. Louis,8
+528,Data Engineer,558,"University of California, Merced",Ph.D,PhD Applied Mathematics ,California,San Francisco,12
+529,Data Engineer,559,San Jose State University,Master,Master's Degree Computer Software Engineering 3.5,California,,6
+530,Data Engineer,560,California State University-East Bay,Master,Master of Science (M.S.) Business Analytics ,California,,3
+531,Data Engineer,561,Clemson University,Bachelor,Bachelor of Science (B.S.) Mechanical Engineering ,South Carolina,,3
+532,Data Engineer,568,North Carolina State University,Master,Master of Science Statistics 3.93/4.00,North Carolina,,7
+533,Data Engineer,570,Visvesvaraya Technological University,Bachelor,B E Electronics & Communication ,California,Los Angeles,16
+534,Data Engineer,571,University of North Carolina at Charlotte,Master,Master's degree Advanced Data Management and Knowledge Discovery 3.9/4.0,Tennessee,,3
+535,Data Engineer,572,Columbia University in the City of New York,Master,M.S. Mechanical engineering ,New York,New York,7
+536,Data Engineer,573,Massachusetts Institute of Technology,Bachelor,Bachelor’s Degree Mechanical Engineering ,California,San Francisco,10
+537,Data Engineer,577,University of Illinois at Urbana-Champaign,Master,M.S information science ,New York,New York,13
+538,Data Engineer,578,University of Southern California,Master,Master’s Degree Computer Science ,New York,New York,20
+539,Data Engineer,579,The University of Texas at Dallas,Master,Master of Science - MS Business Analytics 3.88,Texas,,6
+540,Data Engineer,581,University of Louisiana at Lafayette,Master,Master of Science (MS) Computer Science ,New York,New York,10
+541,Data Engineer,582,Stanford University,etc,Center for Professional Development Data Mining and Analysis 3.5/4 GPA,California,,8
+542,Data Engineer,585,Ira A. Fulton Schools of Engineering at Arizona State University,Master,"Master of Science (M.S.) Industrial Engineering (Statistics, Data Science, Machine Learning and Information systems) 3.4",Arizona,Phoenix,6
+543,Data Engineer,587,B.S.A ITM,Bachelor,Bachelor's Degree Computer Science ,California,San Francisco,15
+544,Data Engineer,588,University of Arizona - Eller College of Management,Master,Master of Science (M.S.) Management Information Systems and Services 3.85,California,,10
+545,Data Engineer,591,Stanford University,Ph.D,Ph.D Computational and Mathematical Engineering ,California,,12
+546,Data Engineer,592,Case Western Reserve University,Bachelor,Bachelor’s Degree Mechanical Engineering 4.0,New York,New York,2
+547,Data Engineer,596,University of Southern California,Master,Master's degree Computer Science ,New York,New York,6
+548,Data Engineer,597,UVSQ Universite de Versailles Saint-Quentin-en-Yvelines,Ph.D,"PhD Database, XML, Security, Smart Cards ",New York,New York,16
+549,Data Engineer,599,"Galvanize - San Francisco, SoMa",etc,  ,California,San Francisco,6
+550,Data Engineer,603,Northeastern University,Master,Master’s Degree Industrial Engineering 3.71/4,Massachusetts,Boston,4
+551,Data Engineer,604,Andhra University,Master,MCA Computers ,Texas,Houston,12
+552,Data Engineer,605,Texas A&M University,Master,Master's degree Industrial Engineering ,Texas,,3
+553,Data Engineer,608,University of Minnesota - Carlson School of Management,Master,Master of Science in Business Analytics  ,Washington,Seattle,8
+554,Data Engineer,609,The University of Texas at Arlington,Master,Master of Science - MS Computer Science ,Texas,Dallas,3
+555,Data Engineer,610,Columbia University in the City of New York,Master,Master of Science - MS Data Sciences ,New York,New York,9
+556,Data Engineer,611,Texas Tech University,Bachelor,"Bachelor of Science (Summa Cum Laude) Computer Science, Minor in Mathematics ",Massachusetts,Boston,12
+557,Data Engineer,612,University of San Francisco,Master,Master of Science - MS Data Science ,California,,4
+558,Data Engineer,615,University of Cincinnati - College of Engineering and Applied Science,Master,Master of Engineering - MEng Computer Science 3.88,Ohio,,5
+559,Data Engineer,619,"Indian Institute of Technology, Kanpur",Master,Master's degree Mathematics and Statistics ,California,San Francisco,4
+560,Data Engineer,621,Saint Mary's University of Minnesota,Bachelor,B.A. Accounting and Business Management ,Washington,Seattle,13
+561,Data Engineer,623,New York University,Master,Master's degree Computer Science ,New York,New York,3
+562,Data Engineer,624,University of Phoenix,Master,"Masters Information Systems Management Programming, Networking, Databases, System Analysis, Risk Management ",Oregon,,24
+563,Data Engineer,625,Udacity,etc,Deep Learning Nano Degree Machine Learning ,California,San Francisco,8
+564,Data Engineer,627,University of Southern California,Bachelor,BS Computer Science ,California,Los Angeles,16
+565,Data Engineer,628,Northeastern University,Master,Master's degree Industrial Engineering 3.87/4,Ohio,Columbus,4
+566,Data Engineer,629,Acharya Nagarjuna Vishwavidhyalayamu,Bachelor,Bachelors Degree Computer science ,Texas,Houston,3
+567,Data Engineer,630,University of Minnesota,Bachelor,Bachelors Information Technology Management ,North Dakota,Fargo,7
+568,Data Engineer,632,New York Institute of Technology,Master,Master's degree Computer Science 3.69/4,New Jersey,,2
+569,Data Engineer,633,Texas A&M University-Commerce,Master,Master's degree Computational Science 3.85,New York,New York,9
+570,Data Engineer,635,The University of Connecticut,Bachelor,Bachelor’s Degree Psychology and Political Science ,New York,New York,9
+571,Data Engineer,638,"University of California, Davis",Bachelor,Bachelor of Science - BS Statistics ,California,,4
+572,Data Engineer,641,Massachusetts Institute of Technology,Ph.D,Ph.D. Electrical Engineering and Computer Science ,Massachusetts,,15
+573,Data Engineer,642,University of South Florida,Master,"Master's degree Management Information Systems, General 3.92/4",North Carolina,,7
+574,Data Engineer,643,Carnegie Mellon University,Bachelor,"Bachelor of Fine Arts (BFA) Digital Media, Entrepreneurship ",New York,New York,15
+575,Data Engineer,644,Baruch College,Bachelor,Bachelor’s Degree Computer and Information Systems/ Data Analytics 3.80,New York,New York,3
+576,Data Engineer,646,Virginia Tech,Master,Master's degree Computer Engineering 3.7/4.0,California,,1
+577,Data Engineer,649,Santa Clara University,Master,Master's Degree Computer Science and Engineering 3.78/4.0,Minnesota,Minneapolis,12
+578,Data Engineer,650,"National Technical University of Ukraine ""Kiev Polytechnic Institute""",Master,Master's degree Computer Science ,California,San Francisco,6
+579,Data Engineer,653,Osmania University,Bachelor,Bachelor of Engineering - BE Computer Science ,California,,21
+580,Data Engineer,654,"University of California, Los Angeles",Master,Master’s Degree Statistics 3.98 / 4.0,California,,7
+581,Data Engineer,655,National University of Sciences and Technology (NUST),Bachelor,Bachelors in Engineering Computer Software Engineering ,Washington,,13
+582,Data Engineer,656,Indiana University Bloomington,Master,Master of Science (MS) Computer Science 3.61/4.00,California,San Francisco,5
+583,Data Engineer,658,University of Arizona - Eller College of Management,Master,Master of Science (MS) Management Information Systems 4.0,Arizona,Phoenix,9
+584,Data Engineer,659,Zhejiang University,Master,Master's degree Computer Science ,Washington,,12
+585,Data Engineer,660,The University of Memphis,Master,Master's degree  ,California,San Francisco,7
+586,Data Engineer,661,West Virginia University,Master,Master’s Degree Industrial Engineering 3.90 out of 4.00,Massachusetts,Boston,4
+587,Data Engineer,664,National Institute of Technology Calicut,Bachelor,Bachelor of Technology (BTech) Electronics and Communications Engineering ,California,San Francisco,11
+588,Data Engineer,666,The University of Texas at Arlington,Master,Master's degree Management Information Systems ,Texas,Dallas,3
+589,Data Engineer,669,University of Cambridge,Master,Master of Philosophy (MPhil) Business/Managerial Economics First Class Honours,California,San Francisco,3
+590,Data Engineer,670,University of Connecticut School of Business,Master,Master's degree Business Analytics and Project Management 3.92,Illinois,Chicago,4
+591,Data Engineer,672,University of Colorado Denver,Master,"Master's degree Management Information Systems, General 3.55",Colorado,Denver,8
+592,Data Engineer,673,University at Buffalo,Master,Master of Science - MS Data Science ,California,San Francisco,4
+593,Data Engineer,675,University of San Francisco,Master,Master of Science - MS Data Analytics ,California,,6
+594,Data Engineer,676,No school,No Degree,No degree,New York,New York,5
+595,Data Engineer,677,"University of California, Los Angeles",Ph.D,Ph.D. Biostatistics 4.00,,,8
+596,Data Engineer,678,University of Illinois at Urbana-Champaign,Bachelor,BS Computer Science ,California,San Francisco,5
+597,Data Engineer,681,University of Southern California - Marshall School of Business,Master,Master’s Degree Business Analytics ,California,Los Angeles,5
+598,Data Engineer,682,University of Madras,Bachelor,"Bachelor of Business Administration (BBA) Major in Financial, Production and Industrial Management ",New York,New York,27
+599,Data Engineer,683,Louisiana State University,Master,Master's degree Data Analytics ,California,San Francisco,5
+600,Data Engineer,684,"JNTUA College of Engineering, Anantapur",etc,  ,California,,8
+601,Data Engineer,685,University of Southern California,Master,M.S Computer Science ,California,San Francisco,5
+602,Data Engineer,686,Rutgers University,Ph.D,Doctor of Philosophy (Ph.D.) Distributed Computing ,California,San Francisco,15
+603,Data Engineer,687,State Pedagogical University,Master,Master's degree Mathematics and Computer Science A,California,San Francisco,18
+604,Data Engineer,689,Boston University,Master,Master's degree Computer Science 3.8/4,Massachusetts,Boston,6
+605,Data Engineer,691,Washington University in St. Louis,Master,Master of Science in Analytics/ Computer Science  3.86/4.0,New York,New York,6
+606,Data Engineer,692,University of Madras,Bachelor,Bachelor of Business Administration(BBA)  ,New Jersey,,9
+607,Data Engineer,693,University of Houston,Master,Master of Science - MS Computer Science 3.25,Texas,,4
+608,Data Engineer,696,New York University - Polytechnic School of Engineering,Master,Master's degree Computer Science ,New York,New York,7
+609,Data Engineer,698,Duke University,Bachelor,"Bachelor's Degree Electrical and Computer Engineering, Biomedical Engineering ",California,,4
+610,Data Engineer,701,University of Utah - David Eccles School of Business,Master,Master of Science Information Systems ,Massachusetts,Boston,5
+611,Data Engineer,703,"University of California, Los Angeles",Bachelor,"Bachelor of Science (B.Sc.) Electrical Engineering, Math Economics ",California,,8
+612,Data Engineer,704,North Carolina State University,Master,Master's degree Industrial Engineering ,North Carolina,,4
+613,Data Engineer,705,Indiana University Bloomington,Master,Master's degree Computer Science 3.7 / 4,California,,4
+614,Data Engineer,707,SGGS India,Bachelor,Bachelor of Engineering (B.E.) Computer Science 1st grade,Washington,,13
+615,Data Engineer,711,Florida International University,Master,Master of Science (MS) Engineering Masters,Massachusetts,Boston,17
+616,Data Engineer,712,Silicon insitute of Technology,Bachelor,BE in Computer science. Computer Science A,California,San Francisco,12
+617,Data Engineer,713,Syracuse University,Master,Master of Science - MS Information Management in Data Science 4.0,California,San Francisco,4
+618,Data Engineer,715,Holy Mary Institute of Technology & Science,Bachelor,Bachelor of Technology (B.Tech.) Computer Science 3.66,Texas,Dallas,7
+619,Data Engineer,716,Georgia Institute of Technology,Master,Master's degree Computer Science - Specialization in Machine Learning. ,New Jersey,,16
+620,Data Engineer,717,Lomonosov Moscow State University (MSU),Bachelor,Bachelor's degree Physics ,California,,16
+621,Data Engineer,719,State University of New York at Stony Brook,Master,M.S Computer Science ,New York,New York,14
+622,Data Engineer,722,"Saint-Petersburg State University Information Technologies, Mechanic and Optics (University ITMO)",Bachelor,Bachelor's degree Computer Science ,California,,8
+623,Data Engineer,723,University of Southern California,Master,Masters computer science ,California,,13
+624,Data Engineer,725,The University of Chicago,Master,Master of Science (MS) Computer Science ,Illinois,Chicago,3
+625,Data Engineer,727,Boston College Carroll School of Management,Master,Master of Business Administration (M.B.A.) Management ,Massachusetts,Boston,5
+626,Data Engineer,728,Jawaharlal Nehru Technological University,Bachelor,Bachelor of Technology Computer Science and Information Technology ,Texas,Dallas,16
+627,Data Engineer,729,University of Pennsylvania,Ph.D,Ph.D. Computer Science ,California,,14
+628,Data Engineer,730,Stanford University,etc,Advanced Project Management  ,California,,7
+629,Data Engineer,731,University of Houston-Clear Lake,Master,Master's degree Computer Engineering 3.611/4.00,California,,11
+630,Data Engineer,732,New Jersey Institute of Technology,Master,Master's degree Computer Science ,Texas,,3
+631,Data Engineer,733,Jawaharlal Nehru Technological University,Bachelor,Bachelor's degree Electrical and Electronics Engineering ,California,San Francisco,8
+632,Data Engineer,734,San Jose State University,Master,Master of Science - MS Computer Engineering ,California,,2
+633,Data Engineer,735,San Jose State University,Master,Master's degree Computer Software Engineering ,California,San Francisco,11
+634,Data Engineer,736,Flatiron School,etc, Data Science Immersive ,New York,New York,6
+635,Data Engineer,737,University of Illinois at Chicago,Master,"Master’s Degree Management Information Systems, General ",Illinois,Chicago,6
+636,Data Engineer,740,"National Institute of Science and Technology (NIST), Berhampur",Bachelor,Bachelor of Technology (B.Tech.) Electronics and Instrumentation First Class,California,San Francisco,5
+637,Data Engineer,741,San Jose State University,Master,Master’s Degree Computer Software Engineering GPA: 3.69/4.00,California,,6
+638,Data Engineer,742,Georgia Institute of Technology,Master,MSCS Computer Science ,California,San Francisco,9
+639,Data Engineer,744,University of Southern California,Master,Master's degree Data Informatics 3.5/4.0,California,Los Angeles,3
+640,Data Engineer,745,University of South Florida,Master,Master of Science - MS Big Data and Data Anlaytics ,Washington,Seattle,9
+641,Data Engineer,746,New Jersey Institute of Technology,Master,Masters of Science (MSc) Computer Science ,New Jersey,,6
+642,Data Engineer,751,New Jersey Institute of Technology,Master,Master of Science - MS Computer Science ,New York,New York,1
+643,Data Engineer,754,Oregon State University,Master,Master of Science - MS Statistics 3.78/4 GPA,Washington,Seattle,5
+644,Data Engineer,756,College of engineering guindy,Master,"Master of Engineering (M.Eng.) Management Information Systems, General ",Illinois,Chicago,13
+645,Data Engineer,757,"ITER,BHUBANESWAR",Bachelor,Bachelor of Technology (BTech) Computer Science ,California,San Francisco,5
+646,Data Engineer,759,"University at Buffalo School of Management, The State University of New York",Master,"Master of Science - MS Management Information Systems, General 3.75/4",New York,New York,5
+647,Data Engineer,760,San Jose State University,Master,Master's Degree Software Engineering 3.9/4.0,California,San Francisco,4
+648,Data Engineer,761,"Government college of Engineering, Salem",Bachelor,Bachelor of Engineering (B.E.) Electronics and Communication Engineering 80,Washington,Seattle,7
+649,Data Engineer,762,Northeastern University,Master,Master's degree Analytics ,Massachusetts,Boston,2
+650,Data Engineer,763,The University of Texas at Dallas,Master,Master of Science - MS Computer Science ,Texas,,5
+651,Data Engineer,765,University of Mumbai,Master,Master's Degree in Computer Application  ,Washington,Seattle,16
+652,Data Engineer,767,University of Illinois at Chicago (UIC) - Liautaud Graduate School of Business,Master,Master's degree Business analytics / Data Science ,Illinois,Chicago,2
+653,Data Engineer,768,University of Nevada-Las Vegas,etc,  ,California,San Francisco,11
+654,Data Engineer,769,Georgia Institute of Technology,Master,Master of Science - MSCS Computer Science ,Ohio,,18
+655,Data Engineer,770,Drexel University,Master,Master's degree Business Analytics ,Pennsylvania,Philadelphia,9
+656,Data Engineer,772,"University of California, San Diego",Master,Master’s Degree Computer Science 3.8,California,,6
+657,Data Engineer,773,University of Findlay,Master,Master of Business Administration (M.B.A.) Finance A+,Washington,Seattle,9
+658,Data Engineer,774,College of Engineering at Tennessee Technological University,Ph.D,Doctor of Philosophy (Ph.D.) Computer Science 4.0,California,,14
+659,Data Engineer,775,Massachusetts Institute of Technology,etc,Post Graduate Diploma in Machine Learning Data Science ,California,,7
+660,Data Engineer,778,Arizona State University,Master,Master of Science Computer Science ,California,,12
+661,Data Engineer,779,South Dakota State University,Master,Master of Science (M.S.) Data Science 3.7,North Carolina,Charlotte,3
+662,Data Engineer,780,Rutgers Business School,Master,Master's degree Information Technology and Analytics (Statistics & Machine Learning) ,New York,New York,4
+663,Data Engineer,782,Purdue University,Bachelor,BS Computer Information Technology - Information Systems ,California,Los Angeles,5
+664,Data Engineer,783,"University of Washington, Michael G. Foster School of Business",Bachelor,Bachelors of Business Administration Information Systems/ Finance ,Washington,Seattle,6
+665,Data Engineer,785,San Jose State University,Master,Master's degree Software Engineering 3.636,California,,2
+666,Data Engineer,790,The University of Texas at Arlington,Master,Master of Science - MS Industrial Engineering GPA 3.68/4,Texas,,2
+667,Data Engineer,791,University of Florida,Master,Master's degree Computer Science ,Washington,Seattle,2
+668,Data Engineer,793,University of Washington College of Engineering,Bachelor,Bachelor of Science - BS Industrial and Systems Engineering ,Washington,Seattle,5
+669,Data Engineer,794,Texas A&M University,Master,Masters Industrial Engineering (Data Science track) ,California,San Francisco,4
+670,Data Engineer,795,Southern Utah University,Bachelor,Bachelor of Science (B.S.) Integrated Engineering ,Utah,,12
+671,Data Engineer,796,No school,No Degree,No degree,California,,2
+672,Data Engineer,797,"Birla Institute of Technology and Science, Pilani",Master,Master's degree Computer Science ,California,,14
+673,Data Engineer,798,UC Berkeley,Bachelor,Bachelor's degree Statistics GPA: 4.0,California,San Francisco,5
+674,Data Engineer,799,Stanford University,Master,Master Statistics ,California,,8
+675,Data Engineer,800,UNSW Australia,Ph.D,Doctor of Philosophy (PhD) Pure Mathematics ,New York,New York,7
+676,Data Engineer,801,Rutgers University?New Brunswick,Master,Master of Science - MS Data Science ,New Jersey,,3
+677,Data Engineer,802,Brown University,Bachelor,"Bachelor of Science (BS), Cum Laude and with Honors Computer Science ",California,San Francisco,5
+678,Data Engineer,805,Carnegie Mellon University,Master,Master of Information Systems Management Business Intelligence & Data Analytics ,California,San Francisco,3
+679,Data Engineer,806,Georgia Institute of Technology,Master,Master's Degree Computer Science 3.5,California,,2
+680,Data Engineer,807,Boston College,Bachelor,"Bachelor of Arts (B.A.) Economics, History, English ",Massachusetts,Boston,9
+681,Data Engineer,811,University of Houston,Master,Master's degree ELECTRICAL AND COMPUTER ENGINEERING ,Illinois,,17
+682,Data Engineer,812,National College of Ireland,Bachelor,Bachelor’s Degree Human Resource Management Strategy & Practice Level 8 Honours,,,6
+683,Data Engineer,813,The University of Texas at Austin - Red McCombs School of Business,Master,Master’s Degree Business analytics ,California,San Francisco,4
+684,Data Engineer,815,University at Buffalo,Master,Master’s Degree Industrial and Systems Engineering (Operations Research) 3.95/4,New York,New York,10
+685,Data Engineer,816,Georgia Institute of Technology,Master,Master’s Degree Computer Science ,California,San Francisco,4
+686,Data Engineer,819,Harvard University,Master,Master's Degree Computational Science and Engineering ,California,San Francisco,4
+687,Data Engineer,820,Rutgers University,Master,Master's degree Computer Science 3.83,New York,New York,2
+688,Data Engineer,821,Western Governors University,Bachelor,Bachelor's degree Data Management / Data Analytics ,Colorado,Denver,16
+689,Data Engineer,822,Acharya Nagarjuna University,Master,Master's degree Electrical and Electronics Engineering ,Georgia,Atlanta,5
+690,Data Engineer,823,Northeastern University,Master,Master's degree Information Systems ,Massachusetts,Boston,6
+691,Data Engineer,825,University of New Haven,Master,Master of Science (MS) Data Science with Concentration in Advanced Statistics 3.76,New York,New York,5
+692,Data Engineer,826,Northeastern University,Master,Master's degree Analytics ,Massachusetts,Boston,5
+693,Data Engineer,827,California State University-Long Beach,Master,Master of Science (MS) Electrical and Electronics Engineering ,California,,11
+694,Data Engineer,828,San Jose State University,Master,Master's degree Computer Engineering 3.5,,,5
+695,Data Engineer,829,City University of New York Graduate Center,Ph.D,"PhD Candidate, Level3-ABD Machine Learning, Computer Science ",New York,New York,21
+696,Data Engineer,830,Northeastern University,Master,Master's degree Computer Science ,California,San Francisco,3
+697,Data Engineer,831,University of Illinois at Urbana-Champaign,Master,Master of Science (MS) Computer Science ,Illinois,,4
+698,Data Engineer,832,The University of Texas at Austin,Bachelor,Bachelor of Business Administration (BBA) Marketing ,California,,17
+699,Data Engineer,834,Harrisburg University of Science and Technology,Master,Master of Science - MS Data Analytics 3.9/4.0,Washington,,5
+700,Data Engineer,835,"University of California, Berkeley",Master,Master's degree Data Science ,Texas,Dallas,26
+701,Data Engineer,836,Columbia University in the City of New York,Master,M.S. Candidate Data Science ,New York,New York,3
+702,Data Engineer,838,Georgia Institute of Technology,Master,Master of Science - MS Computer Science ,California,Los Angeles,3
+703,Data Engineer,839,Northeastern University,Master,Master's degree Data Analytics Engineering 3.922,Massachusetts,Boston,6
+704,Data Engineer,840,Georgia Institute of Technology,Master,"Master's degree Machine Learning, Computing Systems ",Washington,Seattle,5
+705,Data Engineer,841,Northeastern University,Master,Master's degree Computer Science 3.8,Massachusetts,Boston,4
+706,Data Engineer,842,University of Southern California,Bachelor,Bachelor of Science (B.S.) Mechanical Engineering ,California,,2
+707,Data Engineer,843,Georgia Institute of Technology,Master,Master's degree Machine Learning ,California,San Francisco,14
+708,Data Engineer,844,National Institute of Technology Rourkela,Bachelor,B.TECH Electrical ,California,,15
+709,Data Engineer,845,New York University,Master,Master of Science (MS) Computer Science ,New York,New York,4
+710,Data Engineer,846,The University of Texas at Arlington - College of Business,Master,Master’s Degree Information Systems 3.75,Texas,,4
+711,Data Engineer,847,Carnegie Mellon University,Master,Master of Science (M.S.) Information Technology ,California,,3
+712,Data Engineer,848,"West Bengal University of Technology, Kolkata",Bachelor,B. TECH Electronics & Instrumentation ,California,,6
+713,Data Engineer,849,Stevens Institute of Technology,Master,Master of Science - MS Business Intelligence and Analytics 4.0,New Jersey,,2
+714,Data Engineer,850,"University of California, Berkeley",Ph.D,PhD Physical Chemistry ,California,San Francisco,4
+715,Data Engineer,851,University of South Carolina-Columbia,Master,Master of Engineering Computer Science and Engineering ,California,,12
+716,Data Engineer,852,New York University,Master,Master’s Degree Electrical and Computer Engineering 3.6,New York,New York,2
+717,Data Engineer,857,Carnegie Mellon University,Master,Master's degree Master of Information Systems Management - Business Intelligence and Data Analytics ,Pennsylvania,,4
+718,Data Engineer,874,Carnegie Mellon University,Master,Master's degree Mechanical Engineering ,Pennsylvania,,6
+719,Data Engineer,889,The London School of Economics and Political Science (LSE),etc,General Course Economics ,Washington,,8
+720,Data Engineer,894,San Jose State University,Master,Master of Engineering - MEng Specialization in Battery Technology ,California,San Francisco,6
+721,Data Engineer,907,Harvard University,Master,Master of Science (M.S.) Computational Science & Engineering ,New York,New York,8
+722,Data Engineer,929,University of Puerto Rico-Mayaguez,Bachelor,Bachelor of Science - BS Computer Engineering ,New York,New York,5
+723,Data Engineer,954,West Virginia University,Master,Master's degree Industrial Engineering- Ergonomics ,Maryland,,4
+724,Data Engineer,968,"California State University, Los Angeles - College of Business and Economics",Master,Master of Science - MSIS Information Systems GPA 3.88,California,Los Angeles,0
+725,Data Engineer,973,BIT,Bachelor,Bachelor of Engineering (BE) Computer Engineering ,,,7
+726,Data Engineer,998,Santa Clara University,Master,"Master's degree Computer Science, Focus on Machine Learning and Data Mining ",California,,5
+727,Data Engineer,1000,Universitat Passau,Master,M.Sc. (Dipl.-Kfm.) Economics ,California,,9
+728,Data Engineer,1001,University of North Carolina at Chapel Hill,Master,Master's Information Science ,California,San Francisco,6
+729,Data Engineer,1002,Texas A&M University,Master,Master's certificate Applied Statistics & Data Mining 3.75,California,San Francisco,5
+730,Data Engineer,1004,California State University-East Bay,Master,Master of Science (M.S.) Statistics (Emphasis in Computational Statistics) ,California,,8
+731,Data Engineer,1005,Washington University in St. Louis,Master,Master of Science (M.S.) Computer Science ,California,San Francisco,15
+732,Data Engineer,1006,New Jersey Institute of Technology,Master,Master’s Degree Information Systems 3.85,New York,New York,4
